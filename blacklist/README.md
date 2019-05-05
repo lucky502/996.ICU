@@ -104,7 +104,7 @@
 |北京|[北京掌握时代科技股份有限公司](http://www.mastertimes.net/)|2019年4月|996|[看准网](https://www.kanzhun.com/pl7093100.html?ka=review-item-ckqw)|
 |南京|[苏宁](http://www.suning.com)|2019年3月|996|[如何评价今年苏宁正式实行996工作制?](https://www.zhihu.com/question/314152843/answer/613149536)|
 |厦门|[4399游戏](www.4399.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr3284tl56.html?ka=review-label13)|[知乎](https://www.zhihu.com/question/20608889/answer/15623928)|
-|嘉兴|[蓝鸽集团有限公司](http://www.chinalancoo.com)|2019年4月4日|每月仅加班需满50小时|[工资中的一半是要靠加班和绩效才能取得](https://tieba.baidu.com/f?kz=4421231059&mo_device=1&ssid=0&from=844b&uid=0&pu=usm@2\|sz@320_1001\|ta@iphone_2_7.0_24_67.0&bd_page_type=1&baiduid=16C9EAE1D7D54FAC1A178F5882C9EBD3&tj=h5_mobile_1_0_10_l4&referer=m.baidu.com?pn=0&)|
+|嘉兴/广州|[蓝鸽集团有限公司](http://www.chinalancoo.com)|2019年4月4日|每月仅加班需满50小时|曾经一个月加班60小时被喝茶、[知乎爆料](https://www.zhihu.com/question/40782949)、[工资中的一半是要靠加班和绩效才能取得](https://tieba.baidu.com/f?kz=4421231059&mo_device=1&ssid=0&from=844b&uid=0&pu=usm@2\|sz@320_1001\|ta@iphone_2_7.0_24_67.0&bd_page_type=1&baiduid=16C9EAE1D7D54FAC1A178F5882C9EBD3&tj=h5_mobile_1_0_10_l4&referer=m.baidu.com?pn=0&)|
 |大连|[大连东软集团](https://www.neusoft.com/cn/)|2019年4月|9106|[看准网](https://www.kanzhun.com/pl5758283.html?ka=review-item2)、[看准网](https://www.kanzhun.com/pl5892120.html?ka=review-item10)|
 |天津|[长城汽车股份有限公司天津园区](http://www.gwm.com.cn/)|2019年3月28日|大小周|[招聘简章](http://www.hljsxy.org.cn/website/sites/common/readwNews.aspx?JpkId=1&id=13289)|
 |天津|[小黑鱼](https://blackfish.cn)|2019年4月7日|996|[看准网](https://m.kanzhun.com/gsr6771936.html)|
@@ -117,13 +117,15 @@
 |广州|[多益网络](https://www.duoyi.com)|2018年3月|9106|[看准网](https://www.kanzhun.com/gsr1365983tl56.html)、[知乎](https://www.zhihu.com/question/22713470/answer/145287600)|
 |广州|[网易游戏](https://game.163.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr15379tl56.html?ka=review-label14)|[知乎](https://www.zhihu.com/question/20563272/answer/57486502)|
 |广州|[三七互娱](www.37wan.net/)|2019年4月7日|9115 9116?|[看准网](https://www.kanzhun.com/gsr1906275.html?ka=com-blocker1-review#co_tab)|
-|广州|[广州蓝鸽集团](http://www.chinalancoo.com)|2019年4月9日|每月加班最低50小时，曾经一个月加班60小时被喝茶，薪资50%需要加班和绩效才能获得 |[知乎爆料](https://www.zhihu.com/question/40782949)|
 |广州|[广州创思信息技术有限公司（9377 游戏）](https://www.9377.com)|2019年4月8日|大小周加班|[知乎](https://www.zhihu.com/question/53318899)|
 |成都|[tap4fun](https://www.tap4fun.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr59860tl56.html?ka=review-label15)|
 |成都|[成都二次元动漫有限公司](https://www.kanman.com/)|2018年12月1日|996|[图片-1](img/ecy1.jpg) [图片-2](img/ecy12.jpg)[图片-3](img/ecy4.jpg) + 亲历|
 |成都|[成都索贝数码科技股份有限公司](http://www.sobey.com/)|2019年4月8日| 996 无倒休 | [看准网](https://www.kanzhun.com/pl7169544.html) |
+|苏州|[Momenta](https://www.momenta.cn/)|2019年4月|996,CEO朋友圈宣扬马云996|[微信截图](img/mbgwb.jpg)
+|武汉|[武汉斗鱼网络科技有限公司](https://www.douyu.com/)|2018年9月|每天至少加班两小时，拖欠大量工资，无加班费|[看准网](https://m.kanzhun.com/pl6708460.html）
+|北京|[蛋壳公寓](https://www.danke.com/)|2018年7月|10106/10107|[看准网](https://www.kanzhun.com/pl7093100.html?ka=review-item-ckqw)
+|河北秦皇岛|[河北东软软件有限公司](https://www.neuqsoft.com/)|2019年4月|8.30-21,副总亲自回复邮件加班|[邮件截图](img/河北东软软件有限公司申请加班.png),[微信聊天记录](img/neuq_work_overtime_evidence2.jpg),[微信聊天记录2](img/neuq_work_overtime_evidence3.jpg)
 |成都|[成都未知未来科技有限公司](https://cdxfuture.com/xf/)|2018年12月|大小周、拖欠工资，裁员无补偿|[周六加班](img/xf周六加班通知.png)，[提醒补加班](img/xf提醒补加班.png)，[裁员后还拖欠工资](img/xf被裁员拖欠薪资.jpg)，[仲裁书](img/xf劳动仲裁书.jpg)
-|河北秦皇岛|[河北东软软件有限公司](https://www.neuqsoft.com/)|2019年4月|8.30-21,副总亲自回复邮件加班|[邮件截图](img/河北东软软件有限公司申请加班.png)
 |杭州|[阿里巴巴](https://www.alibabagroup.com/)|2018年6月|996|[阿里巴巴的996加班文化，看到这些恐怖数据，你也会辞职！](https://kuaibao.qq.com/s/20180612A1FAPU00)<br>[马云：996是修来的福报! 律师：涉嫌违法](http://m.sohu.com/a/307564633_241241)<br>[马云：后悔忙于工作 没时间陪家人 有来生绝不这样](https://v.qq.com/x/page/h0860wwt0xl.html)|
 |杭州|[蚂蚁金服](https://www.antfin.com/)|2018年11月|9106|[阿里前员工吐槽：从蚂蚁金服离职了，真的拿员工当蚂蚁使](https://t.cj.sina.com.cn/articles/view/6680234487/18e2c49f700100dq3q)|
 |杭州|[有赞](https://www.youzan.com)|2019年1月|996|[年会成了“鸿门宴”，这家公司“强制996”被员工举报](http://www.linkshop.com.cn/web/archives/2019/418163.shtml)|
@@ -177,7 +179,10 @@
 |西安|[易点天下](http://facebook.yeahmobi.com/)|-----|9116/9117|每天下午6点开始开会，动不动就通宵，管理层的一个是从华为挖过来的，有狂躁症，动不动就炸，肯恐怖。[工作截图](img/易点天下.jpeg)|
 |潍坊|[歌尔股份](https://www.goertek.com/)|2019年4月|大小周、节假日遇单休从双休周调休|[考勤规定](img/goertek.jpeg) [放假安排1](img/goertek-1.jpg) [放假安排2](img/goertek-2.jpg)|
 |济南|[浪潮集团](http://www.inspur.com/)|-----|996|奋进者申请书 [996工作制](https://baike.baidu.com/item/996%E5%B7%A5%E4%BD%9C%E5%88%B6/19940031?fromtitle=996&fromid=19958311&fr=aladdin#3)|
+|西安|[中软国际科技服务有限公司](http://www.chinasofti.com/)|2019年4月|996|[猎聘网](https://jobs.zhaopin.com/CC508620126J00303154805.htm)|
 |深圳|[紫优科技](https://www.zhipin.com/gongsir/7610a4892e11cc781XZ_09i1FA~~.html?ka=company-jobs)|2019年4月|9116| [公司老板发的招聘信息](img/深圳紫优科技.jpg)|
 |上海/西安|[华勤通讯技术有限公司](http://www.huaqin.com/)|2019年4月|996| [看准网](https://www.kanzhun.com/gso238619.html?ka=com1-title) [知乎](https://www.zhihu.com/question/49628909/answer/522467068)|
 |北京|[小猪短租](http://www.xiaozhu.com/)|-----|997|4.22-5.10连续上班,晚上默认加班,不加班领导会找谈话。[工作截图](img/小猪短租.jpg)|
 |深圳|深圳市蓝色海洋教育科技有限公司|2019年4月|996|一家2019年4月新成立的公司，明确996招聘 [招聘截图](img/lansehaiyang-boss.jpeg)|
+|广州|[广州明动软件股份有限公司](http://www.minstone.com.cn/)|2018年9月|9106|每天晚上10:30才能走，甚至更晚，经常通宵，一周六天 [领导发的邮件](https://raw.githubusercontent.com/willywonkauk/staticref/master/1.png)|
+|广西|广西安辰信息产业股份有限公司|2019年4月|大小周|考勤时间截图，可提供制度文件(https://github.com/euxeuxeux/996.ICU/blob/master/blacklist/img/%E6%90%9C%E7%8B%97%E6%88%AA%E5%9B%BE20190429115610.png)|
